@@ -13,6 +13,11 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
         alt="typescript" width="40" height="40" />
     </a>
+      <a href="https://php.org/" target="_blank">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
+        alt="typescript" width="40" height="40" />
+    </a>
   </p>
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UoChanN&layout=compact&show_icons=true&theme=synthwave" />
