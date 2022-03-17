@@ -1,4 +1,4 @@
-## Hi 👋, I'm UoChanN.
+## Hi 👋, I'm UoChanN 🐟.
 
 <h3 align="left">Languages and Tools</h3>
   <p align="left">
